@@ -7,6 +7,6 @@ There are two implementations available
 
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20BSMUWS-990000?style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models/releases/download/BSMUWS/BSM-UWS.zip) [![](https://img.shields.io/github/downloads/wwtmodels/System-Wide-Modelss/BSM-UWS/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models) 
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20BSMSewer-990000?style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models/releases/download/BSMSewer/BSMSewer.zip) [![](https://img.shields.io/github/downloads/wwtmodels/System-Wide-Modelss/BSMSewer/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models) 
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20BSMSewer-990000?style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models/releases/download/BSMSewer/BSM-Sewer.zip) [![](https://img.shields.io/github/downloads/wwtmodels/System-Wide-Modelss/BSMSewer/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models) 
 
 ![alt text](https://github.com/wwtmodels/wwtmodels.github.io/blob/main/logo.png)
