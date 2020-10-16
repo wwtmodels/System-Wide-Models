@@ -2,13 +2,13 @@
 This repository contains the different urban wastewater system-wide models developed between [Lund University](https://www.iea.lth.se/) and [Technical University of Denmark](https://www.kt.dtu.dk/english/research/prosys). The models are mainly developed as a part of the [PhD thesis](https://www.iea.lth.se/publications/Theses/LTH-IEA-1083.pdf) by [Ramesh Saagi](https://github.com/rsaagi)
 
 There are two implementations available  
-<strong>BSM-UWS</strong>  
+<strong>1. BSM-UWS</strong>  
 This contains all the subsystems (catchment, sewer network, wastewater treatment plant and river water system).
 
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20BSMUWS-990000?style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models/releases/download/BSMUWS/BSM-UWS.zip)  [![](https://img.shields.io/github/downloads/wwtmodels/System-Wide-Models/BSMUWS/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models) 
 
 
-<strong>BSMSewer</strong>  
+<strong>2. BSMSewer</strong>  
 This is the implementation that contains the catchment and sewer model only from the entire BSM-UWS implementation.
 
 
