@@ -16,7 +16,7 @@ This is the implementation that contains the catchment and sewer model only from
 
 
 
-The model is described in the following papers  
+The models are described in the following papers  
 [Saagi, R., Flores-Alsina, X., Kroll, S., Gernaey, K. V., & Jeppsson, U. (2017). A model library for simulation and benchmarking of integrated urban wastewater systems. Environmental Modelling & Software, 93, 282–295.](https://doi.org/10.1016/j.envsoft.2017.03.026)
 
 [Saagi, R., Flores-Alsina, X., Fu, G., Butler, D., Gernaey, K. V., & Jeppsson, U. (2016). Catchment & sewer network simulation model to benchmark control strategies within urban wastewater systems. Environmental Modelling & Software, 78, 16–30.](https://doi.org/10.1016/j.envsoft.2015.12.013)
