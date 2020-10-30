@@ -24,4 +24,4 @@ The models are described in the following papers
 
 
 
-![alt text](https://github.com/wwtmodels/wwtmodels.github.io/blob/main/logo.png)
+![logo](logo.png)
