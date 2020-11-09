@@ -1,5 +1,5 @@
 # System-Wide-Models
-This repository contains the different urban wastewater system-wide models developed between [Lund University](https://www.iea.lth.se/), [Technical University of Denmark](https://www.kt.dtu.dk/english/research/prosys), University of Exeter and AQUAFIN. The models are developed mainly [Ramesh Saagi](https://github.com/rsaagi), [Xavier Flores-Alsina](https://github.com/xfalsina), Stefan Kroll, Guangtao Fu, David Butler, Krist V. Gernaey and [Ulf Jeppsson](https://github.com/rsaagi). The models are primarily developed as a part of the [PhD thesis](https://www.iea.lth.se/publications/Theses/LTH-IEA-1083.pdf) by [Ramesh Saagi](https://github.com/rsaagi).
+This repository contains the different urban wastewater system-wide models developed between [Lund University](https://www.iea.lth.se/), [Technical University of Denmark](https://www.kt.dtu.dk/english/research/prosys), University of Exeter and AQUAFIN. The models are developed mainly by [Ramesh Saagi](https://github.com/rsaagi), [Xavier Flores-Alsina](https://github.com/xfalsina), Stefan Kroll, Krist V. Gernaey and [Ulf Jeppsson](https://github.com/rsaagi). The models are primarily developed as a part of the [PhD thesis](https://www.iea.lth.se/publications/Theses/LTH-IEA-1083.pdf) by [Ramesh Saagi](https://github.com/rsaagi).
 
 There are two implementations available  
 <strong>1. BSM-UWS</strong>  
@@ -7,10 +7,8 @@ This contains all the subsystems (catchment, sewer network, wastewater treatment
 
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20BSMUWS-990000?style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models/releases/download/BSMUWS/BSM-UWS.zip)  [![](https://img.shields.io/github/downloads/wwtmodels/System-Wide-Models/BSMUWS/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models) 
 
-
 <strong>2. BSMSewer</strong>  
 This is the implementation that contains the catchment and sewer model only from the entire BSM-UWS implementation.
-
 
 [![ADM](https://img.shields.io/badge/DOWNLOAD%20BSMSewer-990000?style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models/releases/download/BSMSewer/BSM-Sewer.zip)  [![](https://img.shields.io/github/downloads/wwtmodels/System-Wide-Models/BSMSewer/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models) 
 
