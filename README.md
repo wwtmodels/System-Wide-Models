@@ -22,4 +22,4 @@ The models are described in the following papers
 
 
 
-![logo](logo.png)
+![logo](WWTMlogo.png)
