@@ -5,12 +5,12 @@ There are two implementations available
 <strong>1. BSM-UWS</strong>  
 This contains all the subsystems (catchment, sewer network, wastewater treatment plant and river water system).
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20BSMUWS-990000?style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models/releases/download/BSMUWS/BSM-UWS.zip)  [![](https://img.shields.io/github/downloads/wwtmodels/System-Wide-Models/BSMUWS/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models) 
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20BSM%20UWS-990000?style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models/releases/download/BSMUWS/BSM-UWS.zip)  [![](https://img.shields.io/github/downloads/wwtmodels/System-Wide-Models/BSMUWS/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models) 
 
 <strong>2. BSMSewer</strong>  
 This is the implementation that contains the catchment and sewer model only from the entire BSM-UWS implementation.
 
-[![ADM](https://img.shields.io/badge/DOWNLOAD%20BSMSewer-990000?style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models/releases/download/BSMSewer/BSM-Sewer.zip)  [![](https://img.shields.io/github/downloads/wwtmodels/System-Wide-Models/BSMSewer/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models) 
+[![ADM](https://img.shields.io/badge/DOWNLOAD%20BSM%20Sewer-990000?style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models/releases/download/BSMSewer/BSM-Sewer.zip)  [![](https://img.shields.io/github/downloads/wwtmodels/System-Wide-Models/BSMSewer/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/System-Wide-Models) 
 
 
 
